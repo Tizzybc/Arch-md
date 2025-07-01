@@ -10,13 +10,13 @@ require('dotenv').config();
 
 //================= { SETTINGS } =================\\
 global.prefix = (process.env.PREFIX || ".").trim().split(/\s+/); // your desired prefix symbol only
-global.owner = process.env.OWNER_NUMBER || "2347036214381"; // owner number , for multiple number
+global.owner = process.env.OWNER_NUMBER || "23341755459"; // owner number , for multiple number
 global.sudo = process.env.SUDO  || "";
 global.ownername = process.env.OWNER_NAME || "Ednut"; //set bot owner name here 
 global.botname = process.env.BOT_NAME || "null"
 global.author = process.env.AUTHOR  || "Ednut";
 global.packname = process.env.PACK_NAME  || "Arch Md ²⁵";
-global.session = process.env.SESSION_ID || ""
+global.session = process.env.SESSION_ID || "Arch_d9b8c60c1a8a7eba898dd97094919a0a"
 global.timezone = process.env.TIME_ZONE || "Africa/Lagos";
 global.simbol = process.env.SYMBOL || '♘';
 global.thumb = process.env.THUMB || "https://files.catbox.moe/bfzvlr.jpg,https://files.catbox.moe/n7wo5h.jpg,https://files.catbox.moe/sidp03.jpg,https://files.catbox.moe/yvb0et.jpg,https://files.catbox.moe/vu2qgl.jpg,https://files.catbox.moe/5rfbw9.jpg,https://files.catbox.moe/5hpljo.jpg,https://files.catbox.moe/o5hve8.jpg,https://files.catbox.moe/7383y9.jpg"
